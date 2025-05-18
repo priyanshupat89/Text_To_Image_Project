@@ -1,4 +1,4 @@
-# Text_To_Image_Project
+
 
 # 🖼️ Text-to-Image Generator using Stable Diffusion (Google Colab)
 
