@@ -10,7 +10,7 @@ This project is a **Text-to-Image Generator** built with the **Stable Diffusion 
 
 Click the badge below to open and run the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/text-to-image-colab/blob/main/text_to_image.ipynb)
+https://github.com/priyanshupat89/Text_To_Image_Project/blob/main/text_to_image.ipynb
 
 > **Note:** Replace the URL above with your actual GitHub notebook link after uploading.
 
