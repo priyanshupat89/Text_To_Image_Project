@@ -12,7 +12,6 @@ Click the badge below to open and run the notebook in Google Colab:
 
 https://github.com/priyanshupat89/Text_To_Image_Project/blob/main/text_to_image.ipynb
 
-> **Note:** Replace the URL above with your actual GitHub notebook link after uploading.
 
 ---
 
